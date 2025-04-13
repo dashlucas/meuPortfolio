@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Lucas de Oliveira Martins
+Burns (Lucas de Oliveira Martins)
+game developer
 
 Show Contacts
 
 Email
-richard@example.com
+dashlucasvideos@gmail.com
 
 Phone
-+1 (213) 352-2795
++55 (41) 99715-0331
 
 Birthday
-June 23, 1982
+April 06, 1998
 
 Location
-Sacramento, California, USA
+Curitiba, Paraná, Brasil
 
 # navbar
 
@@ -32,9 +32,18 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Game developer focused on Unreal Engine. I have full proficiency in Blueprints and am junior in C++. 
+Experienced in mobile and multiplayer development, currently working with virtual reality (VR). 
+I possess skills in 3D modeling, texturing, and basic rigging. 
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I am a team player, proactive, and always seek creative solutions to problems. 
+Passionate about creating immersive experiences and seeking new challenges.
+
+
+
+
+
+
 
 
 ## service
